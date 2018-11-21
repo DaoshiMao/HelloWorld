@@ -1,0 +1,30 @@
+美国	United States
+奥地利	Austria
+芬兰	Finland
+比利时	Belgium
+爱尔兰	Ireland
+马来西亚	Malaysia
+日本	Japan
+墨西哥	Mexico
+伊朗	Iran
+波兰	Poland
+印度	India
+荷兰	Netherlands
+挪威	Norway
+法国	France
+加拿大	Canada
+香港	China
+丹麦	Denmark
+台湾	China
+西班牙	Spain
+澳大利亚	Australia
+印度尼西亚	Indonesia
+韩国	Korea
+冰岛	Iceland
+俄罗斯	Russia
+瑞士	Switzerland 
+德国	Germany
+卢森堡	Luxembourg
+中国大陆	China
+英国	United Kingdom
+意大利	Italy
